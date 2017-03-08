@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\ConnectFour\ConnectFour\bin\Release\ConnectFour.exe.config
+D:\Documents\Visual Studio 2015\Projects\ConnectFour\ConnectFour\bin\Release\ConnectFour.exe
+D:\Documents\Visual Studio 2015\Projects\ConnectFour\ConnectFour\bin\Release\ConnectFour.pdb
+D:\Documents\Visual Studio 2015\Projects\ConnectFour\ConnectFour\obj\Release\ConnectFour.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ConnectFour\ConnectFour\obj\Release\ConnectFour.exe
+D:\Documents\Visual Studio 2015\Projects\ConnectFour\ConnectFour\obj\Release\ConnectFour.pdb
